@@ -18,6 +18,7 @@ class EmailAddressParser
   email = rows.collect do |row|
   data = row.split(", ")
   email
-end
+  end
+  
   
 end 
