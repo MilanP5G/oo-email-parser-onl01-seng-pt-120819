@@ -24,6 +24,6 @@ class EmailAddressParser
   # data = row.split(", ")
   # email
   # end
-  
+end 
   
 end 
