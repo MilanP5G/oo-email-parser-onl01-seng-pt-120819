@@ -11,7 +11,7 @@ class EmailAddressParser
   end 
   
   def parse
-    @cs
+    @csv_email.split
   
   
   
