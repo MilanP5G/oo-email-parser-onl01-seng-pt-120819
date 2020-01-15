@@ -18,12 +18,12 @@ class EmailAddressParser
       @@email << email
     end
   
-  def self.parse
+  # def self.parse
   # rows = csv_data.split("\n")
   # email = rows.collect do |row|
   # data = row.split(", ")
   # email
-  end
+  # end
   
   
 end 
