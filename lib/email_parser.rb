@@ -10,7 +10,8 @@ class EmailAddressParser
     @csv_email = csv_email
   end 
   
-  def self.parse(csv_email)
+  def parse
+    @cs
   
   
   
