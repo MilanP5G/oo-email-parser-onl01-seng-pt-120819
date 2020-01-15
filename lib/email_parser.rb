@@ -14,10 +14,10 @@ class EmailAddressParser
   end 
   
   def self.parse
-  rows = csv_data.split("\n")
-  email = rows.collect do |row|
-  data = row.split(", ")
-  email
+  # rows = csv_data.split("\n")
+  # email = rows.collect do |row|
+  # data = row.split(", ")
+  # email
   end
   
   
